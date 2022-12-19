@@ -4,3 +4,5 @@ Create a new branch dev which is fast
 Master wants to do this
 I have to fix this emgerent bug now !!!
 Function finished
+Peter want the function to be like this!
+1234567890!
