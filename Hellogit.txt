@@ -4,3 +4,6 @@ Create a new branch dev which is fast
 Master wants to do this
 I have to fix this emgerent bug now !!!
 Function finished
+After Peter push
+Bob wants the function to be like this!
+9876543210
