@@ -9,6 +9,5 @@ def test1():
 
 
 def test2():
-    print("test4")
-    print("add one line")
+    print("test2")
     return 2
